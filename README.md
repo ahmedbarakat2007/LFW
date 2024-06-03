@@ -7,6 +7,9 @@ Run the Full Arch Linux on your Windows Machiine
 LFW is a Terminal Emulator of Arch Linux Completely based on QEMU to Emulate The Kernel, initramfs and Bootloader
 It Uses a Full Fleadge Arch Linux Distro as a Base So it Can Run all kinds of Linux Applications
 
+Username : arch
+Password : arch
+
 # System Requirement
 
 CPU : X86 Quad Core CPU
