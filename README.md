@@ -24,3 +24,11 @@ GPU : (any)
 
 ![Screenshot 2024-06-03 020353](https://github.com/ahmedbarakat2007/LFW/assets/118398763/0b676a3a-fc9c-4e71-99d9-e39252da0688)
 
+![Screenshot 2024-06-04 022606](https://github.com/ahmedbarakat2007/LFW/assets/118398763/0d80cf26-b5e8-4e03-ae11-1073ac4dbea3)
+
+
+# Special Thanks to QEMU Project for Making Such Projects Possible <3
+
+![Qemu-logo](https://github.com/ahmedbarakat2007/LFW/assets/118398763/ca7df206-77de-41fe-a48d-28a01b855728)
+
+
