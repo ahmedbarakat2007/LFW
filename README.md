@@ -17,8 +17,7 @@ Most Importantly : VT-x Must be Enabled and Windows Hypervisor Platform Must be 
 
 GPU : (any)
 
-# ScreenShot
+#Screenshot
 
-![wd](https://github.com/ahmedbarakat2007/WinDroid/assets/118398763/7df22b73-8c5a-430f-8b52-30f9f689d4df)
+![Screenshot 2024-06-03 020353](https://github.com/ahmedbarakat2007/LFW/assets/118398763/0b676a3a-fc9c-4e71-99d9-e39252da0688)
 
-![images](https://github.com/ahmedbarakat2007/WinDroid/assets/118398763/31a9bf00-cf51-4758-bfa5-f88051667d8b)
