@@ -1,17 +1,19 @@
-# WinDroid
-![icon](https://github.com/ahmedbarakat2007/WinDroid/assets/118398763/ea8570d2-fb7b-404e-9882-a38517a0f381)
+# LFW (Linux for Windows)
 
-Run Android Easily on PC 
+![icon](https://github.com/ahmedbarakat2007/LFW/assets/118398763/1410e6b9-7960-43e6-930f-5c41371d69eb)
 
-Now It's On Version 2.0
+Run the Full Arch Linux on your Windows Machiine
 
-It's an Android Emulator For Windows Devices Based on QEMU
+LFW is a Terminal Emulator of Arch Linux Completely based on QEMU to Emulate The Kernel, initramfs and Bootloader
+It Uses a Full Fleadge Arch Linux Distro as a Base So it Can Run all kinds of Linux Applications
 
 # System Requirement
 
-CPU : X86 Dual Core CPU
+CPU : X86 Quad Core CPU
 
-Ram : 2gb Ram
+Ram : 4gb Ram
+
+Most Importantly : VT-x Must be Enabled and Windows Hypervisor Platform Must be Enable from Windows too
 
 GPU : (any)
 
